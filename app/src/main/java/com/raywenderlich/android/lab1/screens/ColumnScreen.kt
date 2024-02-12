@@ -36,7 +36,5 @@ fun MyColumn(){
                 fontSize = 22.sp
             )
         }
-
     }
-
 }
