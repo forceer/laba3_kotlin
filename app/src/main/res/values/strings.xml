@@ -14,6 +14,12 @@
     <string name="insert_email">Email</string>
     <string name="first">Первый</string>
     <string name="second">Второй</string>
+    <string name="button_row">Row</string>
+    <string name="button_column">Column</string>
+    <string name="button_box">Box</string>
+    <string name="button_surface">Surface</string>
+    <string name="button_scaffold">Scaffold</string>
     <string name="third">Третий</string>
+
 
 </resources>
