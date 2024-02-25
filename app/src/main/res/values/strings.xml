@@ -22,6 +22,14 @@
     <string name="third">Третий</string>
     <string name="menu">Меню</string>
     <string name="mycompose">MyComoposeApp</string>
-
-
+    <string name="Scrolling">MyScrollingList</string>
+    <string name="mylist">MyListScreen</string>
+    <string name="mygrid">MyGridScreen</string>
+    <string name="andorid_advanced">Усовершенствованная архитектруа Android</string>
+    <string name="learn_kotlin">Изучение Kotlin</string>
+    <string name="kotlin_coroutines">Корутины в Kotlin</string>
+    <string name="android">Android</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="swift">Swift</string>
+    <string name="ios">IOS</string>
 </resources>
