@@ -1,7 +1,6 @@
 package com.raywenderlich.android.lab1.screens
 
 import android.annotation.SuppressLint
-import android.graphics.drawable.Icon
 import androidx.compose.material.BottomAppBar
 import androidx.compose.material.Icon
 import androidx.compose.material.IconButton

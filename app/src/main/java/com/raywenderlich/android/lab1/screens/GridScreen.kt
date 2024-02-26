@@ -1,8 +1,6 @@
 package com.raywenderlich.android.lab1.screens
 
-import android.graphics.drawable.Icon
-import android.widget.GridView
-import android.widget.RemoteViews.RemoteCollectionItems
+
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.RowScope
 import androidx.compose.foundation.layout.fillMaxSize

@@ -3,9 +3,7 @@ package com.raywenderlich.android.lab1.screens
 import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
 import androidx.compose.foundation.Image
-import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
@@ -47,6 +45,6 @@ fun BookImage(@DrawableRes  imageResId: Int, @StringRes contentDescriptionResId:
         bitmap = ImageBitmap.imageResource(imageResId),
         contentDescription = stringResource(id = contentDescriptionResId),
         contentScale = ContentScale.FillBounds,
-        modifier = androidx.compose.ui.Modifier.size(416.dp, 616.dp)
+        modifier = Modifier.size(416.dp, 616.dp)
     )
 }
