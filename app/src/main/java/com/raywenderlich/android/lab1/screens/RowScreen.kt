@@ -1,7 +1,6 @@
 package com.raywenderlich.android.lab1.screens
 
-import android.inputmethodservice.Keyboard.Row
-import android.text.Layout.Alignment
+
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
